@@ -1,0 +1,981 @@
+{
+  "nodes": [
+    {
+      "id": "가격",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "대비",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "별로",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "가격대비 별로...",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "홍삼정 에브리 타임",
+      "group": 2,
+      "val": 16
+    },
+    {
+      "id": "나쁘",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "않",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "나쁘지 않아요",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "이젠",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "이런",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "거",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "챙겨",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "먹",
+      "group": 3,
+      "val": 5
+    },
+    {
+      "id": "나이",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "라",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "이젠 이런거 챙겨먹을 나이라....",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "딱",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "기대",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "그",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "만큼",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "딱 기대한 그 만큼",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "효과",
+      "group": 3,
+      "val": 3
+    },
+    {
+      "id": "좋",
+      "group": 3,
+      "val": 4
+    },
+    {
+      "id": "으",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "느니라",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "효과가 좋으느니라",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "매일",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "는데",
+      "group": 3,
+      "val": 4
+    },
+    {
+      "id": "네요",
+      "group": 3,
+      "val": 2
+    },
+    {
+      "id": "매일 먹는데 효과가 좋네요",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "날",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "안",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "하루",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "달라요",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "먹는 날. 안먹는 날 하루가 달라요!!",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "몸",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "허할",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "때",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "홍삼",
+      "group": 1,
+      "val": 3
+    },
+    {
+      "id": "만",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "없",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "쓴",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "건",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "어쩔",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "수",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "겠",
+      "group": 1,
+      "val": 3
+    },
+    {
+      "id": "죠",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "하하",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "몸이 허할 때 홍삼만한게 없네요... 쓴 건 어쩔 수 없겠죠..하하",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "저",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "한테",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "좀",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "맞",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "았",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "어요",
+      "group": 1,
+      "val": 3
+    },
+    {
+      "id": "살짝",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "어지러움",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "있",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "었",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "습니다",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "참고",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "세요",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "저한테는 좀 안맞았어요... 살짝 어지러움이 있었습니다. 참고하세요",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "요즘",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "주말",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "일",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "느라",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "너무",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "피곤",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "했",
+      "group": 3,
+      "val": 2
+    },
+    {
+      "id": "피로",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "회복",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "확실히",
+      "group": 3,
+      "val": 2
+    },
+    {
+      "id": "도움",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "돼요",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "요즘 주말에도 일하느라 너무 피곤했는데 피로회복에 확실히 도움이 돼요!!!",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "평",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "아서",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "구매",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "아직",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "잘",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "모르",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "평이 좋아서 구매했는데 아직은 잘 모르겠어요",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "그닥",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "은지",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "그닥 효과가 좋은지 잘 모르겠어요",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "허했",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "으니까",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "기력",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "살아나",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "더라구요",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "몸이 허했는데 홍삼 먹으니까 확실히 기력이 살아나더라구요!!",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "역시",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "건강",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "엔",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "강추",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "입니다",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "역시 건강엔 홍삼!! 강추입니다!!",
+      "group": 3,
+      "val": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "가격",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "대비",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "별로",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "가격대비 별로...",
+      "target": "가격",
+      "value": 1
+    },
+    {
+      "source": "나쁘",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "않",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "나쁘지 않아요",
+      "target": "나쁘",
+      "value": 1
+    },
+    {
+      "source": "이젠",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "이런",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "거",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "챙겨",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "먹",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "나이",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "라",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "이젠 이런거 챙겨먹을 나이라....",
+      "target": "이젠",
+      "value": 1
+    },
+    {
+      "source": "딱",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "기대",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "그",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "만큼",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "딱 기대한 그 만큼",
+      "target": "딱",
+      "value": 1
+    },
+    {
+      "source": "효과",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "좋",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "으",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "느니라",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "효과가 좋으느니라",
+      "target": "효과",
+      "value": 1
+    },
+    {
+      "source": "매일",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "는데",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "네요",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "매일 먹는데 효과가 좋네요",
+      "target": "매일",
+      "value": 1
+    },
+    {
+      "source": "날",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "안",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "하루",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "달라요",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "먹는 날. 안먹는 날 하루가 달라요!!",
+      "target": "먹",
+      "value": 1
+    },
+    {
+      "source": "몸",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "허할",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "때",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "홍삼",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "만",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "없",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "쓴",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "건",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "어쩔",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "수",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "겠",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "죠",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "하하",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "몸이 허할 때 홍삼만한게 없네요... 쓴 건 어쩔 수 없겠죠..하하",
+      "target": "몸",
+      "value": 1
+    },
+    {
+      "source": "저",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "한테",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "좀",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "맞",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "았",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "어요",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "살짝",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "어지러움",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "있",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "었",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "습니다",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "참고",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "세요",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "저한테는 좀 안맞았어요... 살짝 어지러움이 있었습니다. 참고하세요",
+      "target": "저",
+      "value": 1
+    },
+    {
+      "source": "요즘",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "주말",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "일",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "느라",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "너무",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "피곤",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "했",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "피로",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "회복",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "확실히",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "도움",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "돼요",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "요즘 주말에도 일하느라 너무 피곤했는데 피로회복에 확실히 도움이 돼요!!!",
+      "target": "요즘",
+      "value": 1
+    },
+    {
+      "source": "평",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "아서",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "구매",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "아직",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "잘",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "모르",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "평이 좋아서 구매했는데 아직은 잘 모르겠어요",
+      "target": "평",
+      "value": 1
+    },
+    {
+      "source": "그닥",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "은지",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "그닥 효과가 좋은지 잘 모르겠어요",
+      "target": "그닥",
+      "value": 1
+    },
+    {
+      "source": "허했",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "으니까",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "기력",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "살아나",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "더라구요",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "몸이 허했는데 홍삼 먹으니까 확실히 기력이 살아나더라구요!!",
+      "target": "몸",
+      "value": 1
+    },
+    {
+      "source": "역시",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "건강",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "엔",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "강추",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "입니다",
+      "target": "홍삼정 에브리 타임",
+      "value": 1
+    },
+    {
+      "source": "역시 건강엔 홍삼!! 강추입니다!!",
+      "target": "역시",
+      "value": 1
+    }
+  ]
+}

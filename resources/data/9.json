@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "id": "재",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "구매",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "안",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "할",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "것",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "같",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "재 구매는 안 할 것 같아요",
+      "group": 1,
+      "val": 1
+    },
+    {
+      "id": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "group": 2,
+      "val": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "재",
+      "target": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "value": 1
+    },
+    {
+      "source": "구매",
+      "target": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "value": 1
+    },
+    {
+      "source": "안",
+      "target": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "value": 1
+    },
+    {
+      "source": "할",
+      "target": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "value": 1
+    },
+    {
+      "source": "것",
+      "target": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "value": 1
+    },
+    {
+      "source": "같",
+      "target": "엠브이케이 옵티엠에스엠(MVK OptiMSM)",
+      "value": 1
+    },
+    {
+      "source": "재 구매는 안 할 것 같아요",
+      "target": "재",
+      "value": 1
+    }
+  ]
+}

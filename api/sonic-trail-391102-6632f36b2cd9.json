@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sonic-trail-391102",
+  "private_key_id": "6632f36b2cd99d9e9ed09a783817bd32cb35b39b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu+0yykk8RFtlZ\n5XjIL9+FkkAovJvd2t7Ci0RaDP6GNZ/bK1+NJcJ/qwZrKJxqUd+uPvPuawJMcgCy\nY3oyuXFnHVoXtj8JEI9bjzw5muD3pQBDxZE5SfQYUc/7+xEgRkYvOT9yZmMZdPLo\nFbDMYmTFN9tQynoXUB8AeawWl/UKmh2gFWZIOfInPGkenpVRuh3ZUHQ7zrfDFXv6\nF4QFDcxZLjZjjaolkVG8TV+fera/ABqpvnqB8SN4MERPVvcLHotSiJf9VTzDaOhK\nTf1gfgP1tf/jDRPqnP77gkSouRbIoFK4PRQA6QqyytN+oLacHx1Q1gaK1GkaVTC7\nhmD/85QRAgMBAAECggEAEfaqgQqUI2T9G0V7iNGhWM0S2RvDxJrbk41IjxYWayDG\nMHHbdVoTBZhBKG8a369YD0NXN3q02bQ6bhXYTazL/5H71cNX5U5V6UhjHmbQAZxm\n0o5NwlvdO0Hq4Ct+LpoISoDOCqiIM+zVow3XAKR5Q+XgFgMzVYFcLWhQSmF/Pn84\nWwXV+xiXuY6u2N6UMnrDn5oa7eDU2qb3Z0mNUmT9PWRvVrttiQcYguaumsmCyNC1\nV/sGj4J3dVbhWAluX8NDZkqVCr+MzQkWcHkVdETq0MdumgReY29m7cMXQOiyq5Cz\n7ZUNjYona7P5/qlQZ/l27mEpZQol2GR5jWnsdxzaAQKBgQDdg65mAyjDe2K0UJwa\nLgi1vXlsFTIiAXZ13SkeMqTJsXZFKYlnYBSLjxStFVZwdg0VXnoUpSQxKwZXaj/j\ndn8rE+ZB0i0IBnG8BtrrJW3K99XiAacbkQ844tW0F9jrVSwLNc6OkX2FB6DSd79b\ncoFiEL7ItjUXyHJOsnq/dizLGQKBgQDKORWwLWDT4OBjPiBsfOvsbrkauEaj7jj4\nyS9dJgg5qS1Cr2jazTm/Z2R5QbCx9DF+HUnuvu4qUX0TmEafjxTA/AwkC1MkvCH2\nBV7BXHUDgUpgLzYp+XKXoZO3rmd9x/LtxuJgzwM6kD9mSqKvbqTGNvSMbx9cLnzV\nyZka9EQnuQKBgCEPRxb4f7v1DT0mDrYliq09EwMbgrjqiPh8Qme8XTWw45rc4SHp\niAdwGkDev2DXbYpz6DpujyE7b53aQKC9DaurM6E9MfVRqOXMDB4uHt288VHit0L4\n+lGeIRDYwkoVExa1OBe1BQu2oLzonEmUpFSzdRXVg8UB6HVwU7uBcpv5AoGBALuK\no2WHQBRfqln/pPxYAkh8CykPm1uus6Fum4FsoxYuom4E1V6OE69CCPk3hdIToM7Q\nBN/orGIMvs2sXFrfzCSJ3AyVgB9CZtCN/GmhAFgm0L5RKo9U6wRa8e7YTNxm0hHY\nb9vOQLVQT6vjLes61o+JKdUPvWq1Jkrysw4/WPHpAoGAYGOOpnM3LFF7+veewNaN\nKWnMoGIdabzDCPYvCxQfogcbL37SkQSUQ1uFf4nstdhUnGtWYzBe3Fz1DQAp7UfG\nn/AtP+oQvqCtoENQNc2UtibFwDiHJ9gzWfMzn+vYQQdvEJwQ8UhtiqamOLa2DPfL\nMVcnY52PSWf9J1cGrYja55M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "object-detect@sonic-trail-391102.iam.gserviceaccount.com",
+  "client_id": "102790558014220092892",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/object-detect%40sonic-trail-391102.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

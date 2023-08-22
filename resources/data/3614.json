@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "잠",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "잘",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "옵니다",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "잠이 잘 옵니다",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "월야블랙",
+      "group": 2,
+      "val": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "잠",
+      "target": "월야블랙",
+      "value": 1
+    },
+    {
+      "source": "잘",
+      "target": "월야블랙",
+      "value": 1
+    },
+    {
+      "source": "옵니다",
+      "target": "월야블랙",
+      "value": 1
+    },
+    {
+      "source": "잠이 잘 옵니다",
+      "target": "잠",
+      "value": 1
+    }
+  ]
+}

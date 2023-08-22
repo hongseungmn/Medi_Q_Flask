@@ -1,0 +1,96 @@
+{
+  "nodes": [
+    {
+      "id": "와우",
+      "group": 1,
+      "val": 2
+    },
+    {
+      "id": "피부애 어린콜라겐 비타민C",
+      "group": 2,
+      "val": 2
+    },
+    {
+      "id": "효과",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "좋",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "은데",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "부작용",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "있",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "네요",
+      "group": 3,
+      "val": 1
+    },
+    {
+      "id": "효과가 좋은데 부작용도 있네요",
+      "group": 3,
+      "val": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "와우",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "와우",
+      "target": "와우",
+      "value": 1
+    },
+    {
+      "source": "효과",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "좋",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "은데",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "부작용",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "있",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "네요",
+      "target": "피부애 어린콜라겐 비타민C",
+      "value": 1
+    },
+    {
+      "source": "효과가 좋은데 부작용도 있네요",
+      "target": "효과",
+      "value": 1
+    }
+  ]
+}

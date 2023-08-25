@@ -2,24 +2,23 @@ from flask_restful import Resource, Api
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from PIL import Image
-import os
 import torchvision.transforms as transforms
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torchvision import models
+import os
 
 # 클래스 인덱스와 피부 병명 사이의 매핑 정의
 class_names = {
-    0: "akiec",  # 광선 케라토시스/보웬병(자외선 노출, 초기 피부암)
-    1: "bcc",    # 기저세포암(가장 흔한 피부암)
-    2: "bkl",    # 양성 케라토시스 유사 병변
-    3: "df",     # 피부 섬유종(양성 종양)
-    4: "mel",    # 흑색종(피부암)
-    5: "nv",     # 갈색 세포모반(양성 종양)
-    6: "vasc"    # 혈관 병변(혈관종)   
+    0: "akiec",  # "광선 각화증/보웬병(자외선 노출, 초기 피부암)",
+    1: "bcc",    # "기저세포암(가장 흔한 피부암)",
+    2: "bkl",    # "지루성 각화증(검버섯)",
+    3: "df",     # "피부 섬유종(쥐젖)",
+    4: "mel",    # "흑색종(피부암)",
+    5: "nv",     # "갈색 세포모반(점)",
+    6: "vasc"    # "혈관종"
 }
-
 
 # 모델의 그래디언트 업데이트 설정
 def set_parameter_requires_grad(model, feature_extracting):
@@ -48,13 +47,17 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(script_dir, 'best_skin_lesion_model.pth')
 
 # 모델 로딩
-model_weights = torch.load('C:/HSM/Workspace/pythonEnv/project_kosmo/resources/model/best_skin_lesion_model.pth', map_location=torch.device('cpu'))
+model_weights = torch.load('C:/HSM/Workspace/pythonEnv/project_kosmo/resources/model/best_skin_lesion_model (1).pth', map_location=torch.device('cpu'))
 
 # 모델 초기화 및 가중치 로드
 num_classes = 7
 model_densenet, _ = initialize_model("densenet", num_classes, feature_extract=True, use_pretrained=False)
 model_densenet.load_state_dict(model_weights)
 model_densenet.eval()
+
+app = Flask(__name__)
+CORS(app)
+api = Api(app)
 
 # 이미지 전처리 함수
 def preprocess_image(image_path):
@@ -80,7 +83,7 @@ class SkinLesionModel(Resource):
         image_file = request.files['image']
         
         # 이미지 파일 임시 경로에 저장
-        image_path = os.path.join(script_dir, './uploaded_image.jpg')
+        image_path = os.path.join(script_dir, 'uploaded_image.jpg')
         image_file.save(image_path)
         
         # 이미지 전처리

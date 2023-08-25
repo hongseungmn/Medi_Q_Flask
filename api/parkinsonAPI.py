@@ -64,6 +64,8 @@ def test_prediction(model, base64_image_data):
     print(preds)
     predict_proba = model.predict_proba([features])
     print(predict_proba)
+
+
     label = "Parkinsons" if predict_proba[0][1]>0.6 else "Healthy"
 
     # draw the colored class label on the output image and add it to
@@ -71,6 +73,10 @@ def test_prediction(model, base64_image_data):
     color = (0, 255, 0) if label == "Healthy" else (0, 0, 255)
     cv2.putText(output, label, (3, 20), cv2.FONT_HERSHEY_SIMPLEX, 0.5,
                 color, 2)
+
+
+
+                
     output_images.append(output)
     cv2.imwrite("file_name.png", output)
     print("ok")

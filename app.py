@@ -9,6 +9,7 @@ from api.parkinsonAPI import ParkinsonModel
 from api.strokeAPI import StrokeModel
 from api.googleVisionAPI import OCR
 from api.skinLesionAPI import SkinLesionModel
+from api.lungcancerAPI import LungCancerModel
 
 app = Flask(__name__)  
 
@@ -21,7 +22,7 @@ api.add_resource(ParkinsonModel,"/parkinson")
 api.add_resource(StrokeModel,'/stroke')
 api.add_resource(OCR,"/ocr")
 api.add_resource(SkinLesionModel, '/SkinLesionModel')
-
+api.add_resource(LungCancerModel, '/LungCancerModel')
 
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0', port=80)
